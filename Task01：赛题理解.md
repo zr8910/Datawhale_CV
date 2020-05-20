@@ -14,7 +14,7 @@
 
 |                                                              | 标签 | 字符数 |
 | ------------------------------------------------------------ | ---- | ------ |
-| ![](D:\17.github\1.datawhale_CV\Datawhale_CV\图片\Task01\000031.png) | 43   | 2      |
+| ![](https://github.com/zr8910/Datawhale_CV/tree/master/%E5%9B%BE%E7%89%87/Task01/000031.png) | 43   | 2      |
 | ![](D:\17.github\1.datawhale_CV\Datawhale_CV\图片\Task01\000030.png) | 638  | 3      |
 | ![](D:\17.github\1.datawhale_CV\Datawhale_CV\图片\Task01\000078.png) | 1922 | 4      |
 
